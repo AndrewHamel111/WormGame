@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 7cb1cf011a2791f45957f021bacbe56e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4027224578576560249
+    second: jugg_back_walk_0
+  - first:
+      213: -7454230937067987117
+    second: jugg_back_walk_1
+  - first:
+      213: 8665787129389743197
+    second: jugg_back_walk_2
+  - first:
+      213: -2911154709450393008
+    second: jugg_back_walk_3
+  - first:
+      213: -2009254153289967751
+    second: jugg_back_walk_4
+  - first:
+      213: 7609360482645533338
+    second: jugg_back_walk_5
+  - first:
+      213: -924465869531183931
+    second: jugg_back_walk_6
+  - first:
+      213: 1509540093370010891
+    second: jugg_back_walk_7
+  - first:
+      213: -6741368944161617837
+    second: jugg_back_walk_8
+  - first:
+      213: -8236548788095850478
+    second: jugg_back_walk_9
+  - first:
+      213: 8359685096366208217
+    second: jugg_back_walk_10
+  - first:
+      213: -2365115809020258698
+    second: jugg_back_walk_11
+  - first:
+      213: -4722189161141260306
+    second: jugg_back_walk_12
+  - first:
+      213: 125515157953611662
+    second: jugg_back_walk_13
+  - first:
+      213: 2333775304060308925
+    second: jugg_back_walk_14
+  - first:
+      213: -8625034099463287304
+    second: jugg_back_walk_15
+  - first:
+      213: -4660627134062561810
+    second: jugg_back_walk_16
+  - first:
+      213: -6381277751600803023
+    second: jugg_back_walk_17
+  - first:
+      213: -5220081509142558468
+    second: jugg_back_walk_18
+  - first:
+      213: -2288183193247580259
+    second: jugg_back_walk_19
+  - first:
+      213: 2360152073971173614
+    second: jugg_back_walk_20
+  - first:
+      213: 7346840812927047480
+    second: jugg_back_walk_21
+  - first:
+      213: 1871461118932718107
+    second: jugg_back_walk_22
+  - first:
+      213: 6933787345192766541
+    second: jugg_back_walk_23
+  - first:
+      213: -3956152852157706591
+    second: jugg_back_walk_24
+  - first:
+      213: 3378278962111372648
+    second: jugg_back_walk_25
+  - first:
+      213: -5119253105803401569
+    second: jugg_back_walk_26
+  - first:
+      213: -6548857966252594621
+    second: jugg_back_walk_27
+  - first:
+      213: 5833437715386429142
+    second: jugg_back_walk_28
+  - first:
+      213: -7111795621429540389
+    second: jugg_back_walk_29
+  - first:
+      213: 6290188828963274488
+    second: jugg_back_walk_30
+  - first:
+      213: 6125786554909092206
+    second: jugg_back_walk_31
+  - first:
+      213: 6238766212572575273
+    second: jugg_back_walk_32
+  - first:
+      213: -8151857352657101775
+    second: jugg_back_walk_33
+  - first:
+      213: 2963413526017900142
+    second: jugg_back_walk_34
+  - first:
+      213: 1568568663583111990
+    second: jugg_back_walk_35
+  - first:
+      213: -2171696121764926273
+    second: jugg_back_walk_36
+  - first:
+      213: -3673598704111228821
+    second: jugg_back_walk_37
+  - first:
+      213: -4685028300148544914
+    second: jugg_back_walk_38
+  - first:
+      213: 5484534855030339245
+    second: jugg_back_walk_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jugg_back_walk_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 272
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc83b359c6c18c0800000000000000
+      internalID: -4027224578576560249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 272
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fd55af4704d8890800000000000000
+      internalID: -7454230937067987117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 272
+        width: 27
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c7d6a1b7f034870800000000000000
+      internalID: 8665787129389743197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 272
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af00937308997d0800000000000000
+      internalID: -2911154709450393008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 272
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9775ca93ef1bd14e0800000000000000
+      internalID: -2009254153289967751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 272
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a926bf7fa01e99960800000000000000
+      internalID: 7609360482645533338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 272
+        width: 36
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40f9f8033ab23f0800000000000000
+      internalID: -924465869531183931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 272
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d878f87b6f2f410800000000000000
+      internalID: 1509540093370010891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 208
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358856f99a8d172a0800000000000000
+      internalID: -6741368944161617837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 208
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2186f5e2486e1bd80800000000000000
+      internalID: -8236548788095850478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 208
+        width: 27
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f80bbd41930470800000000000000
+      internalID: 8359685096366208217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 208
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676dfaed3bb6d2fd0800000000000000
+      internalID: -2365115809020258698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 208
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa9f72af9677eb0800000000000000
+      internalID: -4722189161141260306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 208
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8780c30f5bedb100800000000000000
+      internalID: 125515157953611662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 208
+        width: 36
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd0810364c336020800000000000000
+      internalID: 2333775304060308925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 208
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd0cd51f29bd4880800000000000000
+      internalID: -8625034099463287304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee577ab8050225fb0800000000000000
+      internalID: -4660627134062561810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1331bb2c1b52177a0800000000000000
+      internalID: -6381277751600803023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 144
+        width: 27
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf809fc468b8e87b0800000000000000
+      internalID: -5220081509142558468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 144
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f7571528dbe30e0800000000000000
+      internalID: -2288183193247580259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 144
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee804f08ec1f0c020800000000000000
+      internalID: 2360152073971173614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 144
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837dbdb4bc835f560800000000000000
+      internalID: 7346840812927047480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 144
+        width: 36
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1290f4e8f3c8f910800000000000000
+      internalID: 1871461118932718107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 144
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c405a8ad2c93060800000000000000
+      internalID: 6933787345192766541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aecdf901fbe819c0800000000000000
+      internalID: -3956152852157706591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 80
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dd2d031de02ee20800000000000000
+      internalID: 3378278962111372648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 80
+        width: 27
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e5495c62c4f8b0800000000000000
+      internalID: -5119253105803401569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 80
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ae6058068cd15a0800000000000000
+      internalID: -6548857966252594621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 80
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de69fcf1b884f050800000000000000
+      internalID: 5833437715386429142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 80
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9838def83dd4d90800000000000000
+      internalID: -7111795621429540389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 80
+        width: 36
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe7c70c96d3b4750800000000000000
+      internalID: 6290188828963274488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_31
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 80
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6968377a6a230550800000000000000
+      internalID: 6125786554909092206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 26
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926f811e0dc849650800000000000000
+      internalID: 6238766212572575273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 26
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c973b9de8cede80800000000000000
+      internalID: -8151857352657101775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 27
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e72eca6e8202920800000000000000
+      internalID: 2963413526017900142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 26
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b3eae83eca4c510800000000000000
+      internalID: 1568568663583111990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 26
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcab1622e59cd1e0800000000000000
+      internalID: -2171696121764926273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 28
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b686d123171c40dc0800000000000000
+      internalID: -3673598704111228821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_38
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 36
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6ef6559f6bfeb0800000000000000
+      internalID: -4685028300148544914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugg_back_walk_39
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 28
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6f450746bfc1c40800000000000000
+      internalID: 5484534855030339245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5dc5e0ceda7c53144acc5219a14fb439
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

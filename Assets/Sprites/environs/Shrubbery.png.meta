@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: d7232f0455c1e5a4ea6734525438bb28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9179116558485073293
+    second: Shrubbery_0
+  - first:
+      213: -7330546138596694842
+    second: Shrubbery_1
+  - first:
+      213: -6442314090674685312
+    second: Shrubbery_2
+  - first:
+      213: -3482347855408124727
+    second: Shrubbery_3
+  - first:
+      213: 2409945266931632392
+    second: Shrubbery_4
+  - first:
+      213: -8279978468592708661
+    second: Shrubbery_5
+  - first:
+      213: -2833527730845986053
+    second: Shrubbery_6
+  - first:
+      213: 8104738810677143154
+    second: Shrubbery_7
+  - first:
+      213: -426332485168701262
+    second: Shrubbery_8
+  - first:
+      213: -3719092468322120094
+    second: Shrubbery_9
+  - first:
+      213: 5318147095082933021
+    second: Shrubbery_10
+  - first:
+      213: 7383266194533214772
+    second: Shrubbery_11
+  - first:
+      213: -7844562862660638542
+    second: Shrubbery_12
+  - first:
+      213: -3482457238221240963
+    second: Shrubbery_13
+  - first:
+      213: -8145893416834700864
+    second: Shrubbery_14
+  - first:
+      213: -3530409103566563609
+    second: Shrubbery_15
+  - first:
+      213: -6973159274907051315
+    second: Shrubbery_16
+  - first:
+      213: 531662796023325501
+    second: Shrubbery_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shrubbery_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 201
+        width: 52
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da86c70e5c26f70800000000000000
+      internalID: 9179116558485073293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 196
+        width: 52
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c42557302ba44a90800000000000000
+      internalID: -7330546138596694842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 201
+        width: 52
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a77d5a77d4896a0800000000000000
+      internalID: -6442314090674685312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 196
+        width: 52
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc2e0663173cafc0800000000000000
+      internalID: -3482347855408124727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 201
+        width: 52
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809089ba378d17120800000000000000
+      internalID: 2409945266931632392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 132
+        width: 52
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc316a7b37b971d80800000000000000
+      internalID: -8279978468592708661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 137
+        width: 50
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2d4bd9a894da8d0800000000000000
+      internalID: -2833527730845986053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 132
+        width: 50
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276abbfe101d97070800000000000000
+      internalID: 8104738810677143154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 137
+        width: 50
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b06f411ddc551af0800000000000000
+      internalID: -426332485168701262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 132
+        width: 50
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e44daca11236cc0800000000000000
+      internalID: -3719092468322120094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 73
+        width: 50
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b91b13b9addc940800000000000000
+      internalID: 5318147095082933021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 50
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a6d475c71a67660800000000000000
+      internalID: 7383266194533214772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 72
+        width: 61
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b824e083a3822390800000000000000
+      internalID: -7844562862660638542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 68
+        width: 61
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75c55ab793dbafc0800000000000000
+      internalID: -3482457238221240963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 72
+        width: 61
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9ef5f9819f3fe80800000000000000
+      internalID: -8145893416834700864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 61
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e61c1e00a7710fc0800000000000000
+      internalID: -3530409103566563609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 61
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcad1f8b59c5a3f90800000000000000
+      internalID: -6973159274907051315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrubbery_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4
+        width: 61
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33e2410f78d06700800000000000000
+      internalID: 531662796023325501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 98170380e2c5509479e48ee5ac5c3bf1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

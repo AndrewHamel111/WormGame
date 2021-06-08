@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: bda6115fae8ffff4eb9aad90ece9b1ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5749906335857229764
+    second: JustBoulders_0
+  - first:
+      213: 700953491310144917
+    second: JustBoulders_1
+  - first:
+      213: 5168072980007217212
+    second: JustBoulders_2
+  - first:
+      213: 8212032677582497556
+    second: JustBoulders_3
+  - first:
+      213: 775770630564848083
+    second: JustBoulders_4
+  - first:
+      213: -8337178735917533753
+    second: JustBoulders_5
+  - first:
+      213: -6306196263651167838
+    second: JustBoulders_6
+  - first:
+      213: -8137425701135903939
+    second: JustBoulders_7
+  - first:
+      213: 6989667913126415727
+    second: JustBoulders_8
+  - first:
+      213: 81675834508666200
+    second: JustBoulders_9
+  - first:
+      213: 8216957757195831761
+    second: JustBoulders_10
+  - first:
+      213: -3106384982807045440
+    second: JustBoulders_11
+  - first:
+      213: -692801846193601018
+    second: JustBoulders_12
+  - first:
+      213: -1392710438259927672
+    second: JustBoulders_13
+  - first:
+      213: 807020110678141203
+    second: JustBoulders_14
+  - first:
+      213: 47110087870171566
+    second: JustBoulders_15
+  - first:
+      213: 8442960324954912046
+    second: JustBoulders_16
+  - first:
+      213: -1080810986122706828
+    second: JustBoulders_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JustBoulders_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 198
+        width: 55
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb9802955cbcf40800000000000000
+      internalID: 5749906335857229764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 198
+        width: 55
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d6c9d8c794ab900800000000000000
+      internalID: 700953491310144917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 198
+        width: 55
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ef926efea8b740800000000000000
+      internalID: 5168072980007217212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 198
+        width: 55
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4176437063007f170800000000000000
+      internalID: 8212032677582497556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 198
+        width: 55
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1affd374714ca00800000000000000
+      internalID: 775770630564848083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 134
+        width: 55
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5f1b8ac146c4c80800000000000000
+      internalID: -8337178735917533753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 134
+        width: 59
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a13d2de8e3eb78a0800000000000000
+      internalID: -6306196263651167838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 134
+        width: 59
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3319a1507e021f80800000000000000
+      internalID: -8137425701135903939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 134
+        width: 59
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d88d32fe9400160800000000000000
+      internalID: 6989667913126415727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 134
+        width: 59
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8556f9e1dbb222100800000000000000
+      internalID: 81675834508666200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70
+        width: 59
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94c0c7b8f780270800000000000000
+      internalID: 8216957757195831761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 70
+        width: 59
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca9d240157e3e4d0800000000000000
+      internalID: -3106384982807045440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 70
+        width: 60
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60645e9346ca266f0800000000000000
+      internalID: -692801846193601018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 70
+        width: 60
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885d98c3c391cace0800000000000000
+      internalID: -1392710438259927672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 70
+        width: 60
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319219fc38c133b00800000000000000
+      internalID: 807020110678141203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 60
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9c6d4106e57a000800000000000000
+      internalID: 47110087870171566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6
+        width: 60
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2577adceab6b2570800000000000000
+      internalID: 8442960324954912046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustBoulders_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 6
+        width: 60
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47001de62203001f0800000000000000
+      internalID: -1080810986122706828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 478c8570388abcd468484f7650c025f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

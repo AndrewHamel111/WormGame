@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - WormPatch
+  - Decoration
+  - Hazard
+  - WormPile
+  - WormRoot
+  - GameManager
+  - WormMeter
+  - EnvironmentManager
+  - BreakableObject
+  - CutsceneTrigger
+  - FadeoutPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Worms
+  - Player
+  - WormBlocker
+  - Breakables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Clouds
+    uniqueID: 2207264071
+    locked: 0
+  - name: Ground Tilemap
+    uniqueID: 919268805
+    locked: 0
+  - name: Ground Decorations
+    uniqueID: 424111163
+    locked: 0
+  - name: Other
+    uniqueID: 295387355
+    locked: 0
+  - name: Foreground
+    uniqueID: 2551459227
+    locked: 0
